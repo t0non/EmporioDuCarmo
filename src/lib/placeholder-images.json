@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo",
+      "description": "Logo oficial Armazém e Empório Du Carmo",
+      "imageUrl": "/imagens/logo.png",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "hero-bg",
+      "description": "Mesa rústica com café fumegante e pão de queijo mineiro",
+      "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=1920",
+      "imageHint": "coffee bakery"
+    },
+    {
+      "id": "hero-right-img",
+      "description": "Destaque do Empório Du Carmo",
+      "imageUrl": "/imagens/fachada.png",
+      "imageHint": "bakery store"
+    },
+    {
+      "id": "about-store",
+      "description": "Interior acolhedor do Empório no Santo Agostinho",
+      "imageUrl": "https://picsum.photos/seed/ducarmostore/800/1000",
+      "imageHint": "bakery interior"
+    },
+    {
+      "id": "cafeteria",
+      "description": "Café especial extraído no método Hario V-60",
+      "imageUrl": "/imagens/cafe.png",
+      "imageHint": "brewing coffee"
+    },
+    {
+      "id": "delicias",
+      "description": "Pão de queijo Xodó de Minas quentinho",
+      "imageUrl": "/imagens/paodequeijo.png",
+      "imageHint": "cheese bread"
+    },
+    {
+      "id": "doces",
+      "description": "Bolo Búlgaro artesanal e sobremesas finas",
+      "imageUrl": "/imagens/doce.png",
+      "imageHint": "dessert cake"
+    },
+    {
+      "id": "cestas",
+      "description": "Cesta de presentes gourmet personalizada",
+      "imageUrl": "https://picsum.photos/seed/giftbasket/600/800",
+      "imageHint": "gift basket"
+    },
+    {
+      "id": "fachada",
+      "description": "Fachada acolhedora do Empório Du Carmo",
+      "imageUrl": "/imagens/fachada.png",
+      "imageHint": "bakery facade"
+    }
+  ]
+}
